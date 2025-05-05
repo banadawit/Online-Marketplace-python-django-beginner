@@ -1,9 +1,37 @@
-             👌 Simple Marketplace (Django)
-✌ This is a beginner-friendly marketplace project built using Django as part of my learning journey. The project includes:
+# 🛒 Simple Marketplace (Django)
 
-  ✔  A basic user authentication system (sign-up, login, logout).
-  ✔  Features to list items with images, names, and prices.
-  ✔  A responsive design for easy navigation.
-  ✔  Clean and organized code to practice Django fundamentals.
+✌️ A beginner-friendly e-commerce platform built with Django to help developers learn web application fundamentals.
 
-😎 This project is a practice exercise to improve my skills in Django development, focusing on creating dynamic web applications.
+## 🚀 Key Features
+
+### ✅ User Authentication
+- Secure sign up, login, and logout flows
+- Password reset functionality
+- User profile management
+- Django's built-in auth system
+
+### 🛍️ Product Management
+- **Create listings**:
+  - Upload product images
+  - Set item names and prices
+  - Add detailed descriptions
+- **Browse items**:
+  - View all available products
+  - Search and filter functionality
+  - Detailed product pages
+
+### ✨ User Experience
+- 📱 Fully responsive design
+- 🎨 Clean, intuitive interface
+- ⚡ Fast page loads
+- ♿ Accessibility-friendly
+
+## 🛠️ Technology Stack
+
+| Component       | Technology Used   |
+|-----------------|-------------------|
+| Framework       | Django 4.x        |
+| Database        | SQLite (Default)  |
+| Frontend        | HTML5, CSS3       |
+| Templating      | Django Templates  |
+| Authentication  | Django Auth       |
